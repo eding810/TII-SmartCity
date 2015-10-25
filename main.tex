@@ -1,0 +1,64 @@
+%\documentclass[runningheads,a4paper]{llncs}
+\documentclass[10pt,journal]{IEEEtran}
+
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{bchart}
+\usepackage{dcolumn}
+\usepackage{float}
+\usepackage{verbatim}
+\usepackage{subfigure}
+
+
+
+\newcommand{\kn}[1]{{\textbf{[KN!]}}\footnote{{\textbf{[Kamyar]:}}#1}}
+%\newcommand{\lm}[1]{{\textbf{[LM!]}}\footnote{{\textbf{[Liam]:}}#1}}
+\newcommand{\lm}[1]{}
+\newcommand{\en}[1]{{\textbf{[EN!]}}\footnote{{\textbf{[Edith]:}}#1}}
+\addtolength{\belowcaptionskip}{-10pt}
+
+
+\begin{document}
+
+
+\title{A Survey on Internet-of-Things for Smart Cities and Urban Informatics}
+
+%\author{\IEEEauthorblockN{Liam McNamara\IEEEauthorrefmark{1} and 
+%Edith Ngai\IEEEauthorrefmark{2}}
+%\IEEEauthorblockA{\\
+%Department of Information Technology,
+%Uppsala University, Sweden \\
+%Email: \IEEEauthorrefmark{1}ljjm@sics.se,
+%\IEEEauthorrefmark{2}edith.ngai@it.uu.se}
+%}
+
+
+\author{
+}
+
+\pagestyle{plain} % gives page numbers: comment out for camera-ready version
+
+
+
+\maketitle
+
+\input{Abstract}
+\input{Introduction}
+\input{Overview}
+\input{Problems}
+\input{Crossplane}
+\input{Future}
+\input{Conclusions}
+
+%\section*{Acknowledgements}
+%\thispagestyle{empty}
+
+
+%\linespread{0} \footnotesize \footnotesize
+\bibliographystyle{IEEEtran}
+\small{
+\bibliography{references}
+	}
+
+
+\end{document}
