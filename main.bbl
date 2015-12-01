@@ -1,4 +1,4 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
 \providecommand{\url}[1]{#1}
 \csname url@rmstyle\endcsname
 \providecommand{\newblock}{\relax}
@@ -17,5 +17,348 @@
 \language=\csname l@#1\endcsname
 \fi
 #2}}
+
+\bibitem{kyunqueue}
+R.~Sen, A.~Maurya, B.~Raman, R.~Mehta, R.~Kalyanaraman, N.~Vankadhara, S.~Roy,
+  and P.~Sharma, ``Kyun queue: a sensor network system to monitor road traffic
+  queues,'' in \emph{Proceedings of the 10th ACM Conference on Embedded Network
+  Sensor Systems (SenSys)}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2012,
+  pp. 127--140.
+
+\bibitem{citysee}
+X.~Mao, X.~Miao, Y.~He, X.-Y. Li, and Y.~Liu, ``Citysee: Urban co2 monitoring
+  with sensors,'' in \emph{Proceedings of IEEE INFOCOM}.\hskip 1em plus 0.5em
+  minus 0.4em\relax IEEE, 2012, pp. 1611--1619.
+
+\bibitem{humanmobility}
+S.~Isaacman, R.~Becker, R.~C{\'a}ceres, M.~Martonosi, J.~Rowland,
+  A.~Varshavsky, and W.~Willinger, ``Human mobility modeling at metropolitan
+  scales,'' in \emph{Proceedings of the 10th international conference on Mobile
+  systems, applications, and services (MobiSys)}.\hskip 1em plus 0.5em minus
+  0.4em\relax ACM, 2012, pp. 239--252.
+
+\bibitem{multisource}
+D.~Zhang, J.~Huang, Y.~Li, F.~Zhang, C.~Xu, and T.~He, ``Exploring human
+  mobility with multi-source data at extremely large metropolitan scales,'' in
+  \emph{Proceedings of the 20th annual international conference on Mobile
+  computing and networking (MobiCom)}.\hskip 1em plus 0.5em minus 0.4em\relax
+  ACM, 2014, pp. 201--212.
+
+\bibitem{coride}
+D.~Zhang, Y.~Li, F.~Zhang, M.~Lu, Y.~Liu, and T.~He, ``coride: carpool service
+  with a win-win fare model for large-scale taxicab networks,'' in
+  \emph{Proceedings of the 11th ACM Conference on Embedded Networked Sensor
+  Systems (SenSys)}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2013, p.~9.
+
+\bibitem{feeder}
+D.~Zhang, J.~Zhao, F.~Zhang, R.~Jiang, and T.~He, ``Feeder: supporting
+  last-mile transit with extreme-scale urban infrastructure data,'' in
+  \emph{Proceedings of the 14th International Conference on Information
+  Processing in Sensor Networks (IPSN)}.\hskip 1em plus 0.5em minus 0.4em\relax
+  ACM, 2015, pp. 226--237.
+
+\bibitem{roving}
+J.~Aslam, S.~Lim, X.~Pan, and D.~Rus, ``City-scale traffic estimation from a
+  roving sensor network,'' in \emph{Proceedings of the 10th ACM Conference on
+  Embedded Network Sensor Systems (SenSys)}.\hskip 1em plus 0.5em minus
+  0.4em\relax ACM, 2012, pp. 141--154.
+
+\bibitem{compressive}
+Y.~Zhu, Z.~Li, H.~Zhu, M.~Li, and Q.~Zhang, ``A compressive sensing approach to
+  urban traffic estimation with probe vehicles,'' \emph{IEEE Transactions on
+  Mobile Computing (TMC)}, vol.~12, no.~11, pp. 2289--2302, 2013.
+
+\bibitem{travelcost}
+B.~Yang, C.~Guo, and C.~S. Jensen, ``Travel cost inference from sparse, spatio
+  temporally correlated time series using markov models,'' \emph{Proceedings of
+  the VLDB Endowment}, vol.~6, no.~9, pp. 769--780, 2013.
+
+\bibitem{pothole}
+J.~Eriksson, L.~Girod, B.~Hull, R.~Newton, S.~Madden, and H.~Balakrishnan,
+  ``The pothole patrol: using a mobile sensor network for road surface
+  monitoring,'' in \emph{Proceedings of the 6th international conference on
+  Mobile systems, applications, and services (MobiSys)}.\hskip 1em plus 0.5em
+  minus 0.4em\relax ACM, 2008, pp. 29--39.
+
+\bibitem{driving}
+J.~Yuan, Y.~Zheng, X.~Xie, and G.~Sun, ``Driving with knowledge from the
+  physical world,'' in \emph{Proceedings of the 17th ACM SIGKDD international
+  conference on Knowledge discovery and data mining (KDD)}.\hskip 1em plus
+  0.5em minus 0.4em\relax ACM, 2011, pp. 316--324.
+
+\bibitem{trajectory}
+Y.~Zheng, ``Trajectory data mining: an overview,'' \emph{ACM Transactions on
+  Intelligent Systems and Technology (TIST)}, vol.~6, no.~3, p.~29, 2015.
+
+\bibitem{crowdsourcing}
+J.~Howe, ``The rise of crowdsourcing,'' \emph{Wired magazine}, vol.~14, no.~6,
+  pp. 1--4, 2006.
+
+\bibitem{bustime}
+P.~Zhou, Y.~Zheng, and M.~Li, ``How long to wait?: predicting bus arrival time
+  with mobile phone based participatory sensing,'' in \emph{Proceedings of the
+  10th international conference on Mobile systems, applications, and services
+  (MobiSys)}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2012.
+
+\bibitem{bustraffic}
+P.~Zhou, S.~Jiang, and M.~Li, ``Urban traffic monitoring with the help of bus
+  riders,'' in \emph{The 35th International Conference on Distributed Computing
+  Systems (ICDCS)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2015.
+
+\bibitem{signalguru}
+E.~Koukoumidis, L.-S. Peh, and M.~R. Martonosi, ``Signalguru: leveraging mobile
+  phones for collaborative traffic signal schedule advisory,'' in
+  \emph{Proceedings of the 9th international conference on Mobile systems,
+  applications, and services (MobiSys)}.\hskip 1em plus 0.5em minus 0.4em\relax
+  ACM, 2011, pp. 127--140.
+
+\bibitem{pocketparker}
+A.~Nandugudi, T.~Ki, C.~Nuessle, and G.~Challen, ``Pocketparker: Pocketsourcing
+  parking lot availability,'' in \emph{Proceedings of the 2014 ACM
+  International Joint Conference on Pervasive and Ubiquitous Computing
+  (UbiComp)}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2014, pp. 963--973.
+
+\bibitem{earphone}
+R.~K. Rana, C.~T. Chou, S.~S. Kanhere, N.~Bulusu, and W.~Hu, ``Ear-phone: an
+  end-to-end participatory urban noise mapping system,'' in \emph{Proceedings
+  of the 9th ACM/IEEE International Conference on Information Processing in
+  Sensor Networks (IPSN)}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2010,
+  pp. 105--116.
+
+\bibitem{fingerprint}
+Z.~Yang, C.~Wu, and Y.~Liu, ``Locating in fingerprint space: wireless indoor
+  localization with little human intervention,'' in \emph{Proceedings of the
+  18th annual international conference on Mobile computing and networking
+  (MobiCom)}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2012, pp. 269--280.
+
+\bibitem{travi}
+Y.~Zheng, G.~Shen, L.~Li, C.~Zhao, M.~Li, and F.~Zhao, ``Travi-navi:
+  Self-deployable indoor navigation system,'' in \emph{Proceedings of the 20th
+  annual international conference on Mobile computing and networking
+  (MobiCom)}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2014, pp. 471--482.
+
+\bibitem{air}
+D.~Hasenfratz, O.~Saukh, S.~Sturzenegger, and L.~Thiele, ``Participatory air
+  pollution monitoring using smartphones,'' \emph{Mobile Sensing}, 2012.
+
+\bibitem{uair}
+Y.~Zheng, F.~Liu, and H.-P. Hsieh, ``U-air: When urban air quality inference
+  meets big data,'' in \emph{Proceedings of the 19th ACM SIGKDD international
+  conference on Knowledge discovery and data mining (KDD)}.\hskip 1em plus
+  0.5em minus 0.4em\relax ACM, 2013, pp. 1436--1444.
+
+\bibitem{outlier}
+Y.~Zhang, N.~Meratnia, and P.~Havinga, ``Outlier detection techniques for
+  wireless sensor networks: A survey,'' \emph{IEEE Communications Surveys \&
+  Tutorials}, vol.~12, no.~2, pp. 159--170, 2010.
+
+\bibitem{crowdscreen}
+A.~G. Parameswaran, H.~Garcia-Molina, H.~Park, N.~Polyzotis, A.~Ramesh, and
+  J.~Widom, ``Crowdscreen: Algorithms for filtering data with humans,'' in
+  \emph{Proceedings of the VLDB Endowment}.\hskip 1em plus 0.5em minus
+  0.4em\relax ACM, 2010, pp. 361--372.
+
+\bibitem{datacleaning}
+E.~Rahm and H.~H. Do, ``Data cleaning: Problems and current approaches,''
+  \emph{IEEE Data Eng. Bull.}, vol.~23, no.~4, pp. 3--13, 2000.
+
+\bibitem{cf}
+X.~Su and T.~M. Khoshgoftaar, ``A survey of collaborative filtering
+  techniques,'' \emph{Advances in artificial intelligence}, vol. 2009, p.~4,
+  2009.
+
+\bibitem{svd}
+Y.~Zhang, M.~Roughan, W.~Willinger, and L.~Qiu, ``Spatio-temporal compressive
+  sensing and internet traffic matrices,'' in \emph{ACM SIGCOMM Computer
+  Communication Review}, vol.~39, no.~4.\hskip 1em plus 0.5em minus 0.4em\relax
+  ACM, 2009, pp. 267--278.
+
+\bibitem{tensor}
+J.~C. Ho, J.~Ghosh, and J.~Sun, ``Marble: high-throughput phenotyping from
+  electronic health records via sparse nonnegative tensor factorization,'' in
+  \emph{Proceedings of the 20th ACM SIGKDD international conference on
+  Knowledge discovery and data mining (KDD)}.\hskip 1em plus 0.5em minus
+  0.4em\relax ACM, 2014, pp. 115--124.
+
+\bibitem{cs}
+D.~L. Donoho, ``Compressed sensing,'' \emph{IEEE Transactions on Information
+  Theory (TIT)}, vol.~52, no.~4, pp. 1289--1306, 2006.
+
+\bibitem{morecs}
+L.~Xu, X.~Hao, N.~D. Lane, X.~Liu, and T.~Moscibroda, ``More with less:
+  lowering user burden in mobile crowdsourcing through compressive sensing,''
+  in \emph{Proceedings of the 2015 ACM International Joint Conference on
+  Pervasive and Ubiquitous Computing (UbiComp)}.\hskip 1em plus 0.5em minus
+  0.4em\relax ACM, 2015, pp. 659--670.
+
+\bibitem{mapreduce}
+J.~Dean and S.~Ghemawat, ``Mapreduce: simplified data processing on large
+  clusters,'' \emph{OSDI}, 2004.
+
+\bibitem{hadoop}
+K.~Shvachko, H.~Kuang, S.~Radia, and R.~Chansler, ``The hadoop distributed file
+  system,'' in \emph{IEEE 26th Symposium on Mass Storage Systems and
+  Technologies (MSST)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2010, pp.
+  1--10.
+
+\bibitem{hive}
+A.~Thusoo, J.~S. Sarma, N.~Jain, Z.~Shao, P.~Chakka, S.~Anthony, H.~Liu,
+  P.~Wyckoff, and R.~Murthy, ``Hive: a warehousing solution over a map-reduce
+  framework,'' \emph{Proceedings of the VLDB Endowment}, vol.~2, no.~2, pp.
+  1626--1629, 2009.
+
+\bibitem{pig}
+A.~F. Gates, O.~Natkovich, S.~Chopra, P.~Kamath, S.~M. Narayanamurthy,
+  C.~Olston, B.~Reed, S.~Srinivasan, and U.~Srivastava, ``Building a high-level
+  dataflow system on top of map-reduce: the pig experience,'' \emph{Proceedings
+  of the VLDB Endowment}, vol.~2, no.~2, pp. 1414--1425, 2009.
+
+\bibitem{spark}
+M.~Zaharia, M.~Chowdhury, M.~J. Franklin, S.~Shenker, and I.~Stoica, ``Spark:
+  cluster computing with working sets,'' in \emph{Proceedings of the 2nd USENIX
+  conference on Hot topics in cloud computing}, vol.~10, 2010, p.~10.
+
+\bibitem{rdd}
+M.~Zaharia, M.~Chowdhury, T.~Das, A.~Dave, J.~Ma, M.~McCauley, M.~J. Franklin,
+  S.~Shenker, and I.~Stoica, ``Resilient distributed datasets: A fault-tolerant
+  abstraction for in-memory cluster computing,'' in \emph{Proceedings of the
+  9th USENIX conference on Networked Systems Design and Implementation
+  (NSDI)}.\hskip 1em plus 0.5em minus 0.4em\relax USENIX Association, 2012, pp.
+  2--2.
+
+\bibitem{graphx}
+R.~S. Xin, J.~E. Gonzalez, M.~J. Franklin, and I.~Stoica, ``Graphx: A resilient
+  distributed graph system on spark,'' in \emph{First International Workshop on
+  Graph Data Management Experiences and Systems}.\hskip 1em plus 0.5em minus
+  0.4em\relax ACM, 2013, p.~2.
+
+\bibitem{urbancomp}
+Y.~Zheng, L.~Capra, O.~Wolfson, and H.~Yang, ``Urban computing: concepts,
+  methodologies, and applications,'' \emph{ACM Transactions on Intelligent
+  Systems and Technology (TIST)}, vol.~5, no.~3, p.~38, 2014.
+
+\bibitem{comobile}
+D.~Zhang, J.~Zhao, F.~Zhang, and T.~He, ``comobile: Real-time human mobility
+  modeling at urban scale using multi-view learning,'' 2015.
+
+\bibitem{edoctor}
+X.~Ma, P.~Huang, X.~Jin, P.~Wang, S.~Park, D.~Shen, Y.~Zhou, L.~K. Saul, and
+  G.~M. Voelker, ``edoctor: Automatically diagnosing abnormal battery drain
+  issues on smartphones,'' in \emph{10th USENIX Symposium on Networked Systems
+  Design and Implementation (NSDI)}, vol.~13, 2013, pp. 57--70.
+
+\bibitem{power}
+A.~Pathak, Y.~C. Hu, M.~Zhang, P.~Bahl, and Y.-M. Wang, ``Fine-grained power
+  modeling for smartphones using system call tracing,'' in \emph{Proceedings of
+  the sixth conference on Computer systems}.\hskip 1em plus 0.5em minus
+  0.4em\relax ACM, 2011, pp. 153--168.
+
+\bibitem{iodetector}
+P.~Zhou, Y.~Zheng, Z.~Li, M.~Li, and G.~Shen, ``{IODetector}: A generic service
+  for indoor outdoor detection,'' in \emph{Proceedings of the 10th ACM
+  conference on embedded network sensor systems (SenSys)}.\hskip 1em plus 0.5em
+  minus 0.4em\relax ACM, 2012, pp. 113--126.
+
+\bibitem{attitude}
+P.~Zhou, M.~Li, and G.~Shen, ``Use it free: Instantly knowing your phone
+  attitude,'' in \emph{Proceedings of the 20th annual international conference
+  on Mobile computing and networking (MobiCom)}.\hskip 1em plus 0.5em minus
+  0.4em\relax ACM, 2014, pp. 605--616.
+
+\bibitem{surroundsense}
+M.~Azizyan, I.~Constandache, and R.~Roy~Choudhury, ``Surroundsense: mobile
+  phone localization via ambience fingerprinting,'' in \emph{Proceedings of the
+  15th annual international conference on Mobile computing and networking
+  (MobiCom)}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2009, pp. 261--272.
+
+\bibitem{activity}
+J.~R. Kwapisz, G.~M. Weiss, and S.~A. Moore, ``Activity recognition using cell
+  phone accelerometers,'' \emph{ACM SigKDD Explorations Newsletter}, vol.~12,
+  no.~2, pp. 74--82, 2011.
+
+\bibitem{transportation}
+S.~Hemminki, P.~Nurmi, and S.~Tarkoma, ``Accelerometer-based transportation
+  mode detection on smartphones,'' in \emph{Proceedings of the 11th ACM
+  Conference on Embedded Networked Sensor Systems (SenSys)}.\hskip 1em plus
+  0.5em minus 0.4em\relax ACM, 2013, p.~13.
+
+\bibitem{ace}
+S.~Nath, ``{ACE}: exploiting correlation for energy-efficient and continuous
+  context sensing,'' in \emph{Proceedings of the 10th international conference
+  on Mobile systems, applications, and services (MobiSys)}.\hskip 1em plus
+  0.5em minus 0.4em\relax ACM, 2012, pp. 29--42.
+
+\bibitem{piggyback}
+N.~D. Lane, Y.~Chon, L.~Zhou, Y.~Zhang, F.~Li, D.~Kim, G.~Ding, F.~Zhao, and
+  H.~Cha, ``Piggyback crowdsensing (pcs): energy efficient crowdsourcing of
+  mobile sensor data by exploiting smartphone app opportunities,'' in
+  \emph{Proceedings of the 11th ACM Conference on Embedded Networked Sensor
+  Systems (SenSys)}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2013, p.~7.
+
+\bibitem{ipshield}
+S.~Chakraborty, C.~Shen, K.~R. Raghavan, Y.~Shoukry, M.~Millar, and
+  M.~Srivastava, ``ipshield: a framework for enforcing context-aware privacy,''
+  in \emph{11th USENIX Symposium on Networked Systems Design and Implementation
+  (NSDI)}.\hskip 1em plus 0.5em minus 0.4em\relax USENIX Association, 2014, pp.
+  143--156.
+
+\bibitem{framework}
+H.~To, G.~Ghinita, and C.~Shahabi, ``A framework for protecting worker location
+  privacy in spatial crowdsourcing,'' \emph{Proceedings of the VLDB Endowment},
+  vol.~7, no.~10, pp. 919--930, 2014.
+
+\bibitem{pptd}
+C.~Miao, W.~Jiang, L.~Su, Y.~Li, S.~Guo, Z.~Qin, H.~Xiao, J.~Gao, and K.~Ren,
+  ``Cloud-enabled privacy-preserving truth discovery in crowd sensing
+  systems,'' in \emph{Proceedings of the 13th ACM Conference on Embedded
+  Networked Sensor Systems (SenSys)}.\hskip 1em plus 0.5em minus 0.4em\relax
+  ACM, 2015, pp. 183--196.
+
+\bibitem{security}
+K.~Yang, K.~Zhang, J.~Ren, and X.~Shen, ``Security and privacy in mobile
+  crowdsourcing networks: challenges and opportunities,'' \emph{IEEE
+  Communications Magazine}, vol.~53, no.~8, pp. 75--81, 2015.
+
+\bibitem{spoc}
+R.~Lu, X.~Lin, and X.~Shen, ``{SPOC}: A secure and privacy-preserving
+  opportunistic computing framework for mobile-healthcare emergency,''
+  \emph{IEEE Transactions on Parallel and Distributed Systems (TPDS)}, vol.~24,
+  no.~3, pp. 614--624, 2013.
+
+\bibitem{onesize}
+J.~P. Rula, V.~Navda, F.~E. Bustamante, R.~Bhagwan, and S.~Guha, ``No one-size
+  fits all: Towards a principled approach for incentives in mobile
+  crowdsourcing,'' in \emph{Proceedings of the 15th Workshop on Mobile
+  Computing Systems and Applications}.\hskip 1em plus 0.5em minus 0.4em\relax
+  ACM, 2014, p.~3.
+
+\bibitem{incentivecom}
+D.~Yang, G.~Xue, X.~Fang, and J.~Tang, ``Crowdsourcing to smartphones:
+  incentive mechanism design for mobile phone sensing,'' in \emph{Proceedings
+  of the 18th annual international conference on Mobile computing and
+  networking (MobiCom)}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2012, pp.
+  173--184.
+
+\bibitem{incentiveutility}
+D.~Zhao, X.-Y. Li, and H.~Ma, ``How to crowdsource tasks truthfully without
+  sacrificing utility: Online incentive mechanisms with budget constraint,'' in
+  \emph{Proceedings of IEEE INFOCOM}.\hskip 1em plus 0.5em minus 0.4em\relax
+  IEEE, 2014, pp. 1213--1221.
+
+\bibitem{privacyincentive}
+Q.~Li and G.~Cao, ``Providing privacy-aware incentives in mobile sensing
+  systems,'' \emph{IEEE Transactions on Mobile Computing (TMC)}, 2015.
+
+\bibitem{steered}
+R.~Kawajiri, M.~Shimosaka, and H.~Kahima, ``Steered crowdsensing: incentive
+  design towards quality-oriented place-centric crowdsensing,'' in
+  \emph{Proceedings of the 2014 ACM International Joint Conference on Pervasive
+  and Ubiquitous Computing (UbiComp)}.\hskip 1em plus 0.5em minus 0.4em\relax
+  ACM, 2014, pp. 691--701.
+
+\bibitem{surveyincentives}
+X.~Zhang, Z.~Yang, W.~Sun, Y.~Liu, S.~Tang, K.~Xing, and X.~Mao, ``Incentives
+  for mobile crowd sensing: A survey,'' \emph{IEEE Communications Surveys {\&}
+  Tutorials}, 2015.
 
 \end{thebibliography}
